@@ -2,7 +2,6 @@
 
 My name is Ivan Spetter, a Front-End developer.
 
-Here are some ideas to get you started:
 
 - 🔊 I love speaking in public!
 - 🔭 I’m currently working as a Front-End Developer.
